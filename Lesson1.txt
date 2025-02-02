@@ -1,0 +1,37 @@
+Objective:
+==========
+1.Opensource automation server
+2.Which enable developers around the globe to reliably build,
+     test and deploy their software.
+
+Steps:
+======
+1.Commit
+2.Build
+3.Test
+4.Stage
+5.Deploy
+
+What is Jenkins:
+================
+1.Sel automation script for regression
+2.Now to run the script manually trigger the execution
+       here jenkins comes to rescue
+3.Jenkins can be setup on cloud or any other machine where script need to be executed and triggered
+       using jenkins build
+4.Jenkins build can be scheduled to run on daily basis and this way
+5.Jenkins automates the automation process
+
+Why we need Jenkins?
+======================
+1.Run Automated Test Suites
+2.Run web,Mobile, Automation Suites
+3.API Monitoring
+4.Repor and email notification
+5.Trends and detailed failure that can be shared
+6.We can make  sub(slave) to make build and run fast
+
+
+
+
+
