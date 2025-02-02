@@ -1,9 +1,0 @@
-Objective;
-===========
-Installation
-Run a Maven project
-Freestyle format
-
-
-
-Exploratory happened
