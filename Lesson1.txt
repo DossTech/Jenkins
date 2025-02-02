@@ -35,6 +35,21 @@ Why we need Jenkins?
 <============================================================================>
 1.cmd
 2.java -jar jenkins.war localPort=8081
+3.localhost:8081
+4.Installation
+5.Can create no of people
+6.Need Maven plugins:
+            1.Go to manage Jenkins
+            2.type maven
+
+Teminology:
+=================
+Console log
+postbuild actions
+pipleline.json
+suite configure in pipeline
+project style
+<==============================================================================>
 
 
 
