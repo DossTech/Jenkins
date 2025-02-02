@@ -1,0 +1,8 @@
+Objective:
+==========
+Run Jenkins on Docker
+
+With port and volume
+
+----------------------------
+if any pb on JDK or mvn  reinstall it again  in configuration and plugin
