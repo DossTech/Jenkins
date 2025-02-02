@@ -32,6 +32,9 @@ Why we need Jenkins?
 6.We can make  sub(slave) to make build and run fast
 
 
+<============================================================================>
+1.cmd
+2.java -jar jenkins.war localPort=8081
 
 
 
