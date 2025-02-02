@@ -1,0 +1,13 @@
+
+
+
+1.Source codemanagement:   Git
+2.Copy the repository url
+3.branch: */master
+
+4.Post-build Actions:
+         IndexPage: test-output/Extent.html
+         Reportsize: Extent HTML Report
+
+5.At Script console:
+        System.setProperty("hudson.model.DirectoryBrowserSupport.CSP", "")
