@@ -41,6 +41,10 @@ Why we need Jenkins?
 6.Need Maven plugins:
             1.Go to manage Jenkins
             2.type maven
+7.install  TestNg plugin
+8.In Configuration provide the Description, path of pom.xml,post report plugin
+9.
+
 
 Teminology:
 =================
