@@ -1,0 +1,10 @@
+Objective:
+===========
+Crate USer
+Assign Role
+Manage Acces of Job
+
+
+plugin:
+=======
+Role Based Authorization Strategy plugin
