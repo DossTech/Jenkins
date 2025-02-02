@@ -1,6 +1,6 @@
-Objective:
+Objective:****
 ===========
-Crate USer
+Crate User
 Assign Role
 Manage Acces of Job
 
@@ -8,3 +8,10 @@ Manage Acces of Job
 plugin:
 =======
 Role Based Authorization Strategy plugin
+
+Step1:  ManageJenkins --->Security--->Authorization---->Rolebased strategy
+Step2:  ManageJenkins---->Security--->users---(Jenkins own use Database)-eg create Dev
+                                                                            create Test
+Step3:  ManageJenkins---->Manage and assignrole---->managerole-->authorization by clicking
+Step4:  ManageJenkins---->Manage and assignrole---->assignrole
+
